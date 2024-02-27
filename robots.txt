@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://wyl1253.github.io/sitemap.xml
